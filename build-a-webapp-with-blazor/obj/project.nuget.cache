@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SJpags7/FG0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Teilani\\Desktop\\School\\cse325\\week03\\build-a-webapp-with-blazor\\week03.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Teilani\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.8\\microsoft.aspnetcore.app.internal.assets.10.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
